@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/cmaketest.dir/cmaketest.cpp.o  -o cmaketest  -L/home/keetsky/OpenNI-Linux-x64-2.2/Redist  -L/home/keetsky/NiTE-2.0.0/Redist -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi -lOpenNI2 -lNiTE2 -Wl,-rpath,/home/keetsky/OpenNI-Linux-x64-2.2/Redist:/home/keetsky/NiTE-2.0.0/Redist 

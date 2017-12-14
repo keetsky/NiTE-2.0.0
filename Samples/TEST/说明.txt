@@ -1,0 +1,1 @@
+将这个文件夹直接放入nite2安装目录下的Samples 在make 下
